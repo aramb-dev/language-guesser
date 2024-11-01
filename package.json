@@ -1,0 +1,15 @@
+{
+  "name": "language-guesser",
+  "version": "0.0.1",
+  "description": "A language guesser using franc and langs. One of the exercises in Colt Steele's Web Dev Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abdūr-Rahmān Bilāl (aramb-dev)",
+  "license": "ISC",
+  "dependencies": {
+    "franc": "^5.0.0",
+    "langs": "^2.0.0"
+  }
+}
